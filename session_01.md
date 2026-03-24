@@ -77,5 +77,55 @@ and connections with github.
 + Customized group 
 
 #### Project Collection
-Have more categories like, Service Account, Repos, Pipelines, Auditing and Policies
+Have more categories like, Service Account, Repos, Pipelines, Auditing and Policies.
+
+
+## Lesson 9
+
+### Profile customization  
+In the top right corner, we have that bottons:
+- MyWork: Work Itens, Pull Request, Favorites
+- Marketplace: Browse, Manage Extensions
+- Help: Contact with ADO suport, Service status check, Private Policy
+        Keyboard Shotcourts.
+- User settings
+    - Preview Features selection
+    - Account configurtations: Profile, Time and Locale, Permissions
+    - Preferences: Notifications, Theme, Usage
+
+
+## Lesson 10
+
+### Taxonomy (hierarchical classification system)
+
++ **Epic:** Large body of work to be broken down into smaller, manageable tasks
+             or user stories to facilitate planning and tracking within a project.
++ **Feature:** Is a high-leve requirement that provides business value and can be
+                broken down into user stories.
++ **Stories:** Is a high-level requirement based on the user experience that provides business value
+                and is broken down into tasks.
++ **Task**: Is a specific unit of work that represents an actionable item to be completed within a 
+            project, often associated with a user story.
+
+
+### Process
+
++ **Basic:** Simplest model that use Issue, Task and Epic work item types.
++ **Agile:** Designed for iterative and user focused development. In addition to the surveying items,
+                we can track bugs and his tasks.
++ **Scrum:** Designed for tracking product backlog items and bugs.
++ **CMMI:** Formal project methods that require a framework for process improvement and an auditable
+            record of decisions. It is possible to track *Changes Request*, *Reviews* and *Risk*.
+
+##### Note
+Each project have a collection of different workflow states for each item. 
+
+##### Item states
++ **New:** Work item is logged as a new item.
++ **Active:** Development and tests.
++ **Resolved:** Development is complete and it go to acceptance tests.
++ **Closed:** Work item has passed al required validations.
++ **Removed:** Work item is no longer required and is taken out of the backlog.
+
+
 
