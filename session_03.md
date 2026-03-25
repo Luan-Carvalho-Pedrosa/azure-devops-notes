@@ -35,3 +35,19 @@
     select a process and finaly select *Work Item*.
 + In Layout tab, it can edit or create work item detalis.
 + Its possible to make some details required and insert a default value for it
+
+## Lesson 25
+
+### Customizing User Story Fields
+
++ First, go to *Azure DevOps main page / Organization Settings / Boards / Process*
+    select a process and finaly select *User Story*.
++ It can add or edit a fild, configuring definitons,, options and layot.
+
+## Lesson 26
+
+### Creating work item rule
+
++ Go to *Azure DevOps main page / Organization Settings / Boards / Process*
+    select a process, them  select *User Story* and finally select the
+    tab *Rules*.
