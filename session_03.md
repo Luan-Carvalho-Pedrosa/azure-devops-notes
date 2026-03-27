@@ -87,3 +87,38 @@ Create tags in work itens card for make it easer to classify and organize.
 It helps to quickly filter the product backlogs or create work item 
 queries based on specific categories.
 You can emphasize tags using colors.
+
+## Lesson 30
+
+### Wiki
+
+Project wiki purpose is facilitate communication and the collaboration,
+and also to be able to share knowledge among the team.
+
+### Wiki creation steps
+
++ On project main page go to *Overview/Wiki* and then
+    click in "Create new wiki*.
++ It use markdown format
++ It can be made more than one wiki page
+
+## Lesson 31
+
++ In an work iten card, it is possible to create a copy Work item.
++ In the copy card, it can change the details.
+
+## Lesson 32
+
+It is possible to create work itens templates, that are
+really focused on providing pre-populated information
+or instruction for a particular work item.
+
+## Lesson 33
+
+### Board Settings
+
++ Fileds: Values located on the card.
++ Styles
++ Swinlanes: Horizontal division in boards.
++ Card reodering.
++ Statugs badge.
