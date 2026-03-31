@@ -1,64 +1,96 @@
-## ADO Dashboards and Queries
+# ADO Dashboards and Queries
 
 ## Lesson 54
 
-In azure devops, it is possible to create dynamic dashboards to
-trak project data.
+In Azure DevOps, it is possible to create dynamic dashboards to track project data.
 
-- In *Overview/ Dashboard* clinck in *new widget* botton. Than, you select 
-    the widgets that match with your goals.
+- Go to **Overview → Dashboard**, click on the **New Widget** button, then select the widgets that best match your goals.
 
-## Lesson 59  
+---
 
-### Velocity metrics
+## Lesson 59
 
-Velocity metrics provide valuable insights that help teams plan and
-forecast sprints.
+### Velocity Metrics
+
+Velocity metrics provide valuable insights that help teams plan and forecast sprints more effectively.
+
+---
 
 ## Lesson 60
 
-### Burndown chart  
+### Burndown Chart
 
-Show the ramaning work of a project along. timeline.
+Shows the remaining work of a project over time.
 
-### Sprint Burndown
+#### Sprint Burndown
+Displays a burndown chart for the work of a team in a single sprint.
 
-Displays a burndown chart for the work of a team 
-in a single operation.
+#### Scope
+Original estimate.
 
-### Scope  
+#### Negative Burndown (Below Ideal Line)
 
-Original estimate
+- **What it means:** The team is ahead of schedule.  
+- **Interpretation:** The blue line (actual work) is below the gray line (ideal trend).  
+- **Significance:** The team is completing tasks faster than expected, or the work was overestimated during planning.  
+- **Action:** If consistent, consider increasing the scope for future sprints or taking on more work, as team velocity is higher than estimated.
 
-### Negative Burndown (Below Ideal Line)
+#### Positive/Higher Burndown (Above Ideal Line)
 
-- What it means: The team is ahead of schedule.
-- Interpretation: The blue line (actual work) is below the gray line (ideal trend).
-- Significance: The team is completing tasks faster than expected, or work was overestimated during planning.
-- Action: If consistent, consider increasing the scope for future sprints or taking on more work,
-              as team velocity is higher than estimated.
+- **What it means:** The team is behind schedule.  
+- **Interpretation:** The blue line (actual work) is above the gray line (ideal trend).  
+- **Significance:** Work is not being completed at the planned rate, or there has been an increase in scope (scope creep).  
+- **Action:** Analyze potential bottlenecks, reduce scope, or adjust expectations for the final sprint goal.
 
-### Positive/Higher Burndown (Above Ideal Line)
-
-- What it means: The team is behind schedule.
-- Interpretation: The blue line (actual work) is above the gray line (ideal trend).
-- Significance: Work is not being completed at the planned rate, or there has been
-                 an increase in scope (scope creep) added to the sprint.
-- Action: Analyze potential bottlenecks, reduce scope, or adjust expectations
-             for the final sprint goal.
-
+---
 
 ## Lesson 61
 
-### Flow diagram
+### Flow Diagram
 
-A role in history of work progressing through varius workflow
-stages (represented by called swin lanes).  
+Shows the history of work progressing through various workflow stages (represented by swim lanes).
+
+---
 
 ## Lesson 62
 
-It can create queries across projects
+You can create queries across multiple projects.
 
-## Lesson 63 
+---
 
-### Export Project
+## Lesson 63
+
+### Export and Import
+
+It is possible to export and import work item queries using **.csv** format.
+
+#### Import Process
+- Go to **Boards → Queries** and click **Import work items**.
+
+#### Export Process
+- Go to **Boards → Queries** and click **Export to CSV**.
+
+#### Important Notes
+
+- If you import a work item file containing states that are not defined in the project process, an error will appear in red in the backlog and the import will fail.
+- Test cases cannot be imported/persisted through this method.
+
+---
+
+<!-- Navigation Buttons -->
+<div style="position: fixed; bottom: 30px; right: 30px; z-index: 1000;">
+  <a href="session_01.md" 
+     style="background-color: #0078D4; color: white; padding: 12px 20px; 
+            border-radius: 8px; text-decoration: none; font-weight: bold; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: inline-flex; 
+            align-items: center; gap: 8px; margin-right: 10px;">
+    ← Previous (session_01.md)
+  </a>
+  <a href="session_02.md" 
+     style="background-color: #0078D4; color: white; padding: 12px 20px; 
+            border-radius: 8px; text-decoration: none; font-weight: bold; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: inline-flex; 
+            align-items: center; gap: 8px;">
+    Next (session_02.md) →
+  </a>
+</div>
