@@ -2,59 +2,108 @@
 
 ## Lesson 65
 
-### Types of testing 
+### Types of Testing
 
-+ Functional Testing: Verifies that software meets business and functional requirements.  
-  + Iteration Testing: Testing across iterations for continuous improvement.  
-  + (Interation) End to End Testing: Comprehensive validation of requirements.
-  + User Acceptance Testing (UAT): Perfomed by the end user to verify the systems meets
-                                    their needs.
-+ Non-functional Testing: Evaluate the software performance, security, and usuability.
++ **Functional Testing**: Verifies that the software meets business and functional requirements.  
+    + **Iteration Testing**: Testing across iterations for continuous improvement.  
+    + **End-to-End Testing**: Comprehensive validation of the entire system and its requirements.  
+    + **User Acceptance Testing (UAT)**: Performed by the end user to verify that the system meets their needs.
+
++ **Non-functional Testing**: Evaluates the software’s performance, security, and usability.
+
+---
 
 ## Lesson 66
 
-Install the **Test & Feedback** extension on marketplace. Then insert the organization path
-and team project that you want to work with.
+Install the **Test & Feedback** extension from the Marketplace. Then enter the organization URL and the team project you want to work with.
+
+---
 
 ## Lesson 67
 
-### Alow use of test plans
+### Enabling Test Plans
 
-+ In **Organization/ Settigns/ Billing** click on **Basic + Test Plans**
++ Go to **Organization Settings → Billing** and select **Basic + Test Plans**.
+
+### Requirement-Based Test Suites
+
+- Automatically linked to one or more backlog work items.  
+- You select specific requirements via a query. All test cases linked to those requirements are automatically included in the suite.
+
+---
 
 ## Lesson 68
 
-It is possible to configure test plan grid.
-You can run test steps, and creat bug work itens for that who failed.
+You can configure the test plan grid view.  
+It is possible to run test steps directly and create bug work items for steps that fail.
+
+---
 
 ## Lesson 69
 
-### Shared steps
+### Shared Steps
 
-Define a sequence of steps that can be referenced by many different test cases.
+Define a sequence of steps that can be reused across many different test cases.
 
-### Creation
+#### Creation
+- In a test case, go to the **Steps** tab and click **Create shared steps**.  
+- After creating shared steps, you can create a new test case and import those shared steps.
 
-- In test case card, on **steps** tab, click in **create shared steps** bottom.
-- After that, you can create a new text case and import the shared steps created previously.
+---
 
 ## Lesson 70
 
-### Steps Params
+### Steps Parameters
 
-You can create params for test steps and insert/update their values. 
+You can create parameters for test steps and insert or update their values during test execution.
+
+---
 
 ## Lesson 71
 
-Its possible to create test configurations (linked with Brownser, Os, etc) and respective variables.
-- It can associate the test configurations with test cases.
+You can create test configurations (linked to Browser, Operating System, etc.) and their respective variables.  
+These configurations can be associated with test cases.
+
+---
 
 ## Lesson 73
 
-### Static suite
+### Static Suites
 
 Manually managed collection of test cases.
 
+### Query-Based Test Suites
+
+Dynamically populated based on a saved work item query.
+
+---
+
 ## Lesson 74
 
-You can see the test progress report.
+You can view the test progress report.
+
+---
+
+## Lesson 75
+
+### Store Test Evidence
+
+---
+
+<!-- Navigation Buttons -->
+<div style="position: fixed; bottom: 30px; right: 30px; z-index: 1000;">
+  <a href="session_01.md" 
+     style="background-color: #0078D4; color: white; padding: 12px 20px; 
+            border-radius: 8px; text-decoration: none; font-weight: bold; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: inline-flex; 
+            align-items: center; gap: 8px; margin-right: 10px;">
+    ← Previous (session_01.md)
+  </a>
+  <a href="session_02.md" 
+     style="background-color: #0078D4; color: white; padding: 12px 20px; 
+            border-radius: 8px; text-decoration: none; font-weight: bold; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: inline-flex; 
+            align-items: center; gap: 8px;">
+    Next (session_02.md) →
+  </a>
+</div>
