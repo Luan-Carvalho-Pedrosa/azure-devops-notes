@@ -72,5 +72,7 @@ Specifies where the pipeline should be run from.
 
 #### Steps
 
-## Lesson 86
+## Lesson 88
+
+### Release creating
 
