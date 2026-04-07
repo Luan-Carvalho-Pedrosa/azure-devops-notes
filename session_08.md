@@ -76,3 +76,14 @@ Specifies where the pipeline should be run from.
 
 ### Release creating
 
+Deploy
+
+## Lesson 89  
+
+### Automating Pipeline
+
+
+## Lesson 91
+
+You can insert pre-deployment conditions and post-deployment conditions
+in a release pipeline
