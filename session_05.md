@@ -29,18 +29,18 @@ You can set sprint dates and plan work for each sprint.
 
 <!-- Navigation Buttons -->
 <div style="position: fixed; bottom: 30px; right: 30px; z-index: 1000;">
-  <a href="session_01.md" 
+  <a href="session_04.md" 
      style="background-color: #0078D4; color: white; padding: 12px 20px; 
             border-radius: 8px; text-decoration: none; font-weight: bold; 
             box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: inline-flex; 
             align-items: center; gap: 8px; margin-right: 10px;">
-    ← Previous (session_01.md)
+    ← Previous (session_04.md)
   </a>
-  <a href="session_02.md" 
+  <a href="session_06.md" 
      style="background-color: #0078D4; color: white; padding: 12px 20px; 
             border-radius: 8px; text-decoration: none; font-weight: bold; 
             box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: inline-flex; 
             align-items: center; gap: 8px;">
-    Next (session_02.md) →
+    Next (session_06.md) →
   </a>
 </div>
