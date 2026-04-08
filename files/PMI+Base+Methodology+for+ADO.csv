@@ -1,0 +1,284 @@
+﻿Work Item Type,Title 1,Title 2,Title 3,Title 4,Area Path,Iteration Path
+Process Group,Inititating,,,,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(4) Project Integration Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,4.1 Develop Project Charter,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Charter,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(13) Project Stakeholder Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,13.1 Identify Stakeholders,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Stakeholder Register,Add Your Area Path Here,Add Your Iteration Path Here
+Process Group,Planning,,,,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(4) Project Integration Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,4.2 Develop Project Management Plan,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(5) Project Scope Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,5.1 Plan Scope Management,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Scope Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,5.2 Collect Requirements,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Requirements,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,5.3 Define Scope,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Scope Statement,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,5.4 Create WBS,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Work Break Down Structure,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(6) Project Schedule Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,6.1 Plan Schedule Management,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Schedule Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,6.2 Define Activities,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Activities and Attributes List,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Milestones List,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,6.3 Sequence Activities,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Schedule Network Diagrams,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Precedence Diagramming Method (PDM) charts,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Activity List with Dependencies,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,6.4 Estimate Activity Resources,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Duration of Estimates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Basis of Estimates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Basis of Estimates,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,6.5 Develop Schedule,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Schedule (Gantt Chart or Network Diagram),Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Schedule Forecasts,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Requests (for any schedule adjustments),Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Resource Calendars,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(7) Project Cost Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,7.1 Plan Cost Management,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Cost Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,7.2 Estimate Costs,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Cost and Basis of Estimates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Document Updates (including assumptions and constraints),Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,7.3 Determine Budget,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Cost Baseline (including contingency reserves),Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Funding Requirements,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,"Project Document Updates (e.g., project schedule updates reflecting funding needs)",Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(8) Project Quality Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,8.1 Plan Quality Management,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Quality Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Quality Metrics,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Process Improvement Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(9) Project Resource Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,9.1 Plan Resource Management,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Resource Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Roles and Responsibilities (RACI),Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Organizational Breakdown Structure (OBS),Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Resource Breakdown Structure (RBS),Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Resource Availability Analysis,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,9.2 Estimate Activity Resources,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Resource Requirements,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Resource Breakdown Structure (RBS),Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Basis of Estimates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Document Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(10) Project Communications,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,10.1 Plan Communication Management,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,"Communication requirements (who needs what information, when, and how)",Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Information distribution methods,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Roles and responsibilities regarding communication,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Reporting formats and frequency,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Escalation processes for issues,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(11) Project Risk Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,11.1 Plan Risk Management,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Risk management approach and methodology,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Roles and responsibilities for risk management,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Timing and frequency of risk management activities,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Risk categories and definitions,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Stakeholder involvement in risk management,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,11.2 Identify Risks,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Description of each risk,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Potential impact and likelihood,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Risk owners,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Risk categories,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,11.3 Perform Qualitative Risk analysis,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,"Updated Risk Register: Includes prioritized risks based on their impact and probability, as well as additional information from qualitative analysis.",Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,11.4 Perform Quantitative Risk,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Quantitative Risk Analysis Results,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Risk Register,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,11.5 Plan Risk Responses,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Risk Response Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Risk Register,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(12) Project Procurement Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,12.1 Plan Procurement Management,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Procurement Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Statement of Work,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Make-or-Buy Analysis,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(13) Project Stakeholder Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,13.2 Plan Stakeholder Engagement,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Stakeholder Engagement Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Stakeholder Register,Add Your Area Path Here,Add Your Iteration Path Here
+Process Group,Executing,,,,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(4) Project Integration Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,4.3 Direct and Manage Project Work,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Deliverables: The actual outputs or products created as a result of project activities.,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Work Performance Data,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Requests,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Log,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,4.4 Manage Project Knowledge,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned Register,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Knowledge Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Documents Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Organizational Process Assets Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(8) Project Quality Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,8.2 Perform Quality Assurance,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Quality Metrics: Specific standards and measures used to assess the quality of project deliverables and processes.,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Quality Audits,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Process Improvement Recommendations,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Quality Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Quality Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(9) Project Resource Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,9.3 Acquired Resources,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Resource Breakdown Structure,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,9.4 Develop Team,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Team Assignments,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,9.5 Manage Team,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Team Performance Assessments,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Log Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Requests,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Documents Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(10) Project Communication Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,10.2 Manage Communication,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Communications Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Status Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Logs,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Stakeholder Engagement Records,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Meeting Minutes,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Communication Tools and Templates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Logs,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(11) Project Risk Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,11.6 Implement Risk Responses,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Risk Response Implementation Plans,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Risk Register,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Log Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Management Plan Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(12) Project Procurement Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,12.2 Conduct Procurement,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Procurement Documents,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Seller Proposals,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Contract Agreements,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Bid Evaluations,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Negotiation Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Orders,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Procurement Performance Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Purchase Orders,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Contract Administration Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(13) Project Stakeholder Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,13.3 Manage Stakeholder Engagement,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Stakeholder Engagement Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Stakeholder Feedback,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Engagement Records,Add Your Area Path Here,Add Your Iteration Path Here
+Process Group,Monitoring and Controlling,,,,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(4) Project Integration Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,4.5 Monitor and Control Project Work,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Work Performance Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Requests,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Project Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,4.6 Perform Integrated Change Control,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Requests,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Log,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Project Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Baselines,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Impact Assessments,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Approval Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Communication Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(5) Project Scope Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,(5.5) Validate Scope,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Work Performance Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Scope Verification Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Requests,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Scope Statement,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Requirements Traceability Matrix,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Logs,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Acceptance Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,(5.6) Perform Integrated Change Control,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Log,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Approved Change Requests,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Project Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Project Documents,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(6) Project Schedule Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,6.6 Control Schedule,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Schedule Performance Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Project Schedule,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Variance Analysis Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Requests,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Logs,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Forecasts,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Milestone Trend Analysis,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(7) Project Cost Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,7.4 Control Cost,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Cost Performance Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Cost Baseline,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Variance Analysis Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Requests,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Logs,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Forecasts,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Financial Audits or Reviews,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(8) Project Quality Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,8.3 Control Quality,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Quality Control Measurements,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Quality Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Logs,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Requests,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Defect Repair Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Quality Audits,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Quality Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(9) Project Resource Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,9.6 Control Resources,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Resource Performance Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Log Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Requests,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Resource Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Document Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(10) Project Communications Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,10.3 Monitor Communications,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Communication Performance Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Communication Management Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Stakeholder Engagement Assessments,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Meeting Minutes and Records,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Logs,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Requests,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Feedback Summaries,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(11) Project Risk Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,11.7 Monitor Risks,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Risk Register Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Risk Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Logs:,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Risk Response Plans,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Risk Audits,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Performance Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Forecasts,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(12) Project Procurement Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,12.3 Control Procurement,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Procurement Performance Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Contract Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Orders,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Logs,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Supplier Performance Evaluations,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Audit Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Risk Assessments,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(13) Project Stakeholder Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,13.4 Monitor Stakeholder Engagement,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Stakeholder Engagement Assessment Matrix,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Stakeholder Feedback Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Change Requests,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Issue Logs,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Engagement Performance Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Updated Stakeholder Engagement Plan,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Meeting Minutes and Records,Add Your Area Path Here,Add Your Iteration Path Here
+Process Group,Closing,,,,Add Your Area Path Here,Add Your Iteration Path Here
+Knowledge Area,,(4) Project Integration Management,,,Add Your Area Path Here,Add Your Iteration Path Here
+Process,,,4.7 Close Project or Phase,,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,"Final Product, Service, or Result Transition",Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Final Report,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Lessons Learned Register,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Formal Acceptance Documentation,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Project Documents Updates,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Closeout Reports,Add Your Area Path Here,Add Your Iteration Path Here
+Deliverable,,,,Organizational Process Assets Updates,Add Your Area Path Here,Add Your Iteration Path Here
